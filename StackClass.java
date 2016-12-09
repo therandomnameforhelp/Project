@@ -1,8 +1,4 @@
-/*
-Name:Stack
-Developer:Keanu Correa
-Date:12/01/2016
-*/
+
 
 
 import java.util.Scanner;
