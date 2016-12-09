@@ -1,8 +1,4 @@
-/*
-Name:Queue
-Developer:Keanu Correa
-Date:12/01/2016
-*/
+
 
 public class QueueClass {
    private static final int capacity = 10;
