@@ -28,10 +28,10 @@ public class StackClass {
       }
    }
 
-   public void pop(int poppedInt) {
+   public void pop() {
       if (top >= 0) {
       top--;
-      System.out.println(poppedInt + " Popped from stack");
+      System.out.println( " Popped from stack");
       peekStack();
       } 
    }
